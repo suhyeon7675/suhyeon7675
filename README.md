@@ -18,6 +18,6 @@
 <a href="https://gogumi-log.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistoty-blue?style=flat-square&logo=blogger&logoColor=white"/></a>  <a href="https://github.com/suhyeon7675" target="_blank"><img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white"/></a> <a href="mailto:claphyeon6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a> 
 </p>
  
-![suhyeon7675's github stats](https://github-readme-stats.vercel.app/api?username=suhyeon7675&show_icons=true&theme=)
+![suhyeon7675's github stats](https://github-readme-stats.vercel.app/api?username=suhyeon7675&show_icons=true&theme=bear)
  
 </div>
