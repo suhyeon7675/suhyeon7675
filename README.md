@@ -2,7 +2,7 @@
  
 # 🙋🏻‍♀️ ️**Park suhyeon**
 
- 💻 **I'm a Backend Develover**    
+ 💻 **I'm a Web Develover**    
  📃**I'm working in Yeouido, South Korea**
 <br> 😊 **Thanks for coming to my github** 
  
